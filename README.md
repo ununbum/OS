@@ -61,7 +61,7 @@ making PintOs at Linux Server
 	-synchronization between read and wirte
 	-	"	 between exec and exit
 
-###*~ how to Pass Multi-OOM ~*
+###  how to Pass Multi-OOM 
 'Multi-OOM' test 40 thread 40 times
 so to pass this test, each thread must free ~ exact all memeory ~
 If you fail this test, check below 
